@@ -67,6 +67,7 @@ h1 {
     color: hsl(0, 0%, 100%);
     cursor: pointer;
     transition-duration: 300ms;
+    margin-bottom: 0.5rem;
 }
 
 .card button:hover {
